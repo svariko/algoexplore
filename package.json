@@ -1,0 +1,16 @@
+{
+  "name": "mergesortedarrays",
+  "version": "1.0.0",
+  "description": "Merge two sorted arrays into one sorted array",
+  "main": "mergesortedarrays.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "jest": "^29.4.0",
+    "prettier": "2.8.3"
+  }
+}
