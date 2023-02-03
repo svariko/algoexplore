@@ -1,8 +1,0 @@
-node_modules
-.eslintrc.json
-.git
-.gitignore
-.prettierignore
-.prettierrc.json
-package-lock.json
-package.json
