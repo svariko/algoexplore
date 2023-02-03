@@ -5,6 +5,7 @@ Thoughts to improve:
 - is it necessary to make copies of the input array?
 - is it necessary to check conditions or just go through the exact number of iterations required?
 - how to make it more robust and handle errors and changes?
+- testing the linter
 
 */
 
@@ -64,3 +65,4 @@ module.exports = {
   getTopElement,
   emptyArray,
 };
+
